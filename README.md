@@ -2,7 +2,7 @@
 
 Link to WordPress.org Repo: https://wordpress.org/plugins/wp-custom-author-url/
 
-![banner-1544x500](https://user-images.githubusercontent.com/1681063/57973801-27c0f580-79a6-11e9-96db-5da5bb5ca292.png)
+![banner-1544x500](https://user-images.githubusercontent.com/1681063/57973868-4bd10680-79a7-11e9-9058-4d3973076fe2.png)
 
 - Contributors: chrisjallen
 - Donate link: https://paypal.me/chrisjimallen
