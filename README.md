@@ -57,8 +57,7 @@ Not at the moment, this will have to be configured via the theme until I find a 
 **_Do you have any other useful plugins?_**
 
 Yes, I have another ( completely free ) plugin called WP Dev Flag, on the Wordpress Repository here: 
-
-![WP Dev Flag](https://wordpress.org/plugins/wp-dev-flag/)
+https://wordpress.org/plugins/wp-dev-flag/
 
 
 ## Screenshots
